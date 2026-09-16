@@ -351,7 +351,7 @@ GameObject:
   - component: {fileID: 5420689074227180207}
   - component: {fileID: 2920874764792488300}
   m_Layer: 9
-  m_Name: Droid_Moon
+  m_Name: Tank
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
